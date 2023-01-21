@@ -1,8 +1,5 @@
 #  Hi there, I'm Fahira <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
-<!--
-**fahiranurulichzza/fahiranurulichzza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 A Data Scientist at Kioser Teknologi Indonesia | TensorFlow Developer Certified 
 
 - 👀 I’m interested in machine learning and enjoy exploring everything about data or Big Data
