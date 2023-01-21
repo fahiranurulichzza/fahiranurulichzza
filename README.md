@@ -12,3 +12,9 @@ A Data Scientist at Kioser Teknologi Indonesia | TensorFlow Developer Certified
 | Projects | Description |
 | ----------- | ----------- |
 | project 1 | Description project 1 |
+
+## 🔍 You Can Find Me at
+<p>
+  <a href="www.linkedin.com/in/fahiranurulichzza" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/fahiraichzza/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
